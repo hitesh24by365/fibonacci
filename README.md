@@ -1,3 +1,3 @@
 # pipeline-scripts
-[[![Build Status](http://ec2-54-241-165-36.us-west-1.compute.amazonaws.com/buildStatus/icon?job=fibonacci)](http://ec2-54-241-165-36.us-west-1.compute.amazonaws.com/job/fibonacci/)](https://github.com/hitesh24by365/fibonacci.git)
+[![Build Status](http://54.154.168.60:8080/buildStatus/icon?job=linkedin-learning%2F03_03-run-scripts-from-the-pipeline)](http://devops.sniperai.com/job/linkedin-learning/job/03_03-run-scripts-from-the-pipeline/)
 Run scripts from a pipeline.
